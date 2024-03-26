@@ -1,0 +1,3 @@
+
+[2022-12-07T16:23:30.950307-04:00] name.INFO: {      "title": "Orden completada",   "body": "la orden # 204",   "to": "ExponentPushToken[fNIGZnDgxebopLvK2qg3U4]",   "data": {     "orderID": 204,     "screen": "OrderDetails"   } } [] []
+[2022-12-07T16:25:44.710228-04:00] name.INFO: {      "title": "Orden completada",   "body": "la orden # 204",   "to": "ExponentPushToken[dlEZ5sMpWpzsXcmTAwz1HO]",   "data": {     "orderID": 204,     "screen": "OrderDetails"   } } [] []

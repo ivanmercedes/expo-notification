@@ -1,0 +1,9 @@
+{
+  "title": "Orden completada",
+  "body": "Tu ordern UDW22343 ha siado actualizada!",
+  "to": "ExponentPushToken[Fl2A2fJKqcy8K9nIPFWqBe]",
+  "data": {
+    "orderID": 204,
+    "screen": "OrderDetails"
+  }
+}

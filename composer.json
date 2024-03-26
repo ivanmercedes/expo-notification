@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ctwillie/expo-server-sdk-php": "^2.0",
+        "monolog/monolog": "^3.2"
+    }
+}
